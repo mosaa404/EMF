@@ -1,4 +1,4 @@
-#Admin_finder
+#  E.M.F Admin_finder
 from requests import get
 from sys import platform
 if platform in ["linux","linux2"]:
