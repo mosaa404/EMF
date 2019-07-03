@@ -23,10 +23,11 @@ print(F+'''
         $$ |                      $$ |\$  /$$ |                $$ |      
         $$$$$$$$\       $$\       $$ | \_/ $$ |      $$\       $$ |      
         \________|      \__|      \__|     \__|      \__|      \__|                                                                                                                                                  
-                                                                                                     #Developed_by_Mo0Ssaa
-                                                                                                     contact with me:
-                                                                                                     twitter:https://twitter.com/AhmedMosaa18
-                                                                                                     E-mail:am01003264893@gmail.com
+                                                                             [ #Developed_by_Mo0Ssaa ]
+                                                                             [ Twitter:https://twitter.com/AhmedMosaa18 ]
+                                                                             [ E-mail:am01003264893@gmail.com ]
+                                                                             [ Facebook:https://www.facebook.com/Ahmed.R.Mosaa404 ]
+                                                                             [ Github:https://github.com/mosaa404 ]
                                                                                                                                                        ''')
 url = input(W+'Enter the URL :')
 if url[len(url)-1] == '/' and url[0] == 'h':
