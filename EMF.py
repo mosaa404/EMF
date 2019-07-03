@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 #  E.M.F Admin_finder
 from requests import get
 from sys import platform
