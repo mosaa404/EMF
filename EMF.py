@@ -6,9 +6,7 @@ if platform in ["linux","linux2"]:
     F = '\033[32;1m'
     N = '\033[31;1m'
 else:
-    W = ''
-    F = ''
-    N = ''
+    W = F = N = ''
 def finder(url,i):
     if get(url+i).status_code == 200:
         print(F+'##########\n[+]found --> '+url+i+'\n##########')
